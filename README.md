@@ -82,7 +82,6 @@ FROM deptemployees LEFT JOIN departments ON
 deptemployees.dept_no=departments.dept_no INNER JOIN employees ON
 deptemployees.employee_no=employees.employee_no
 WHERE dept_name = 'Sales'
-
 ```
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 ```
@@ -91,7 +90,6 @@ FROM deptemployees LEFT JOIN departments ON
 deptemployees.dept_no=departments.dept_no INNER JOIN employees ON
 deptemployees.employee_no=employees.employee_no
 WHERE dept_name IN ('Sales','Development')
-
 ```
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 ```

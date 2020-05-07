@@ -122,7 +122,7 @@ From the histogram we can see that the majority of salaries have fallen into the
 
 3. Create a bar chart of average salary by title.
 
-![AvgSals](figures/AvgSalTitle)
+![AvgSals](figures/AvgSalTitle.png)
 
 Looking at average salary by title we see an even distribution that hovers around $50,000 for all titles except for *senior staff* and *staff* who are closer to $60,000
 

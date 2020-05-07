@@ -116,7 +116,15 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 
 2. Create a histogram to visualize the most common salary ranges for employees.
 
+![DB-design](figures/SalaryDist.png)
+
+From the histogram we can see that the majority of salaries have fallen into the $40,000 - $45,000 range. The upper bound for all salaries seems to be around $120,000.
+
 3. Create a bar chart of average salary by title.
+
+![AvgSals](figures/AvgSalTitle)
+
+Looking at average salary by title we see an even distribution that hovers around $50,000 for all titles except for *senior staff* and *staff* who are closer to $60,000
 
 ### Copyright
 

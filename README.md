@@ -20,8 +20,8 @@ This project's intent is to take a batch of csv's containing information on a co
 
 ![DB-design](figures/dbd.png)
 
-Database ERD diagram was created using .[http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com)
-The modeling process is an intuitive process that helps us gain a better understanding of our database. In this step we identify primary and foreign keys, define datatypes, and determine relationships. For some tables, like with the *Employees* and *Departments* tables, this is simple since each record is unique and has a numeric ID. For other it is more nuanced and requires the creation of composite keys. 
+Database ERD diagram was created using [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
+The modeling process is an intuitive process that helps us gain a better understanding of our database. In this step we identify **primary keys** as well as **foreign keys**, define datatypes, and determine relationships. For some tables, like with the *Employees* and *Departments* tables, this is simple since each record is unique and has a numeric ID. For other it is more nuanced and requires the creation of composite keys. 
 
 
 #### Data Engineering
